@@ -1,4 +1,6 @@
 #+TITLE:Hello 👋
-- My name is Sarthak Shah, and I'm currently conducting research at the University of Oxford
-- My site can be found at [[https://coldboot.org][coldboot.org]], and my blog is at [[https://blog.coldboot.org][blog.coldboot.org]]
-- I am interested in Cybersecurity and Artificial Intelligence
+- 💬 My name is Sarthak, and I'm a Machine Learning and Security Engineer
+- 🌐 My website can be found at [[https://coldboot.org][coldboot.org]], and my blog is at [[https://blog.coldboot.org][blog.coldboot.org]]
+- 🎓 I'm currently conducting research at the University of Oxford
+- 🛡️ I previously interned as a Security Engineer at [[https://jp.mercari.com][Mercari Japan]]
+- 🖥️ I also worked as a [[https://summerofcode.withgoogle.com/archive/2023/projects/heQYLzrz][Google Summer of Code]] intern with [[https://guix.gnu.org][GNU Guix]]
