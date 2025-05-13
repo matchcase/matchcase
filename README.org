@@ -1,4 +1,4 @@
 #+TITLE:Hello 👋
-* My name is Sarthak Shah, and I'm currently conducting research at the University of Oxford
-* My site can be found at [[https://coldboot.org][coldboot.org]], and my blog is at [[https://blog.coldboot.org][blog.coldboot.org]]
-* I am interested in Cybersecurity and Artificial Intelligence
+- My name is Sarthak Shah, and I'm currently conducting research at the University of Oxford
+- My site can be found at [[https://coldboot.org][coldboot.org]], and my blog is at [[https://blog.coldboot.org][blog.coldboot.org]]
+- I am interested in Cybersecurity and Artificial Intelligence
