@@ -4,3 +4,4 @@
 - 🎓 I'm currently conducting research at the University of Oxford
 - 🛡️ I previously interned as a Security Engineer at [[https://jp.mercari.com][Mercari Japan]]
 - 🖥️ I also worked as a [[https://summerofcode.withgoogle.com/archive/2023/projects/heQYLzrz][Google Summer of Code]] intern with GNU
+#+html:<a href="https://gnu.org/software/emacs"><img src="https://img.shields.io/badge/Made With-GNU_Emacs-%237F5AB6?style=flat-square&logo=gnu-emacs&logoColor=white"></a>
